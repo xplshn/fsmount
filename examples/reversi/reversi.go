@@ -14,7 +14,7 @@ import (
 	"image/color"
 	"image/gif"
 
-	"github.com/binzume/fsmount"
+	"github.com/xplshn/fsmount"
 )
 
 var black, white, green []byte // GIF icons. TODO: Use more awesome images

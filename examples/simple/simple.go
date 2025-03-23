@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/binzume/fsmount"
+	"github.com/xplshn/fsmount"
 )
 
 func main() {

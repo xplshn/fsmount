@@ -6,7 +6,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/binzume/fsmount"
+	"github.com/xplshn/fsmount"
 )
 
 type writableDirFS struct {
